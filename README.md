@@ -8,7 +8,7 @@
 Название          | Статус | Ссылка
 ------------------|--------|--------
 Автопарк          | 🟡     | <a href="https://github.com/1makeyourdreams1/Autopark/tree/main/Autopark">Перейти</a>
-Домашняя работа 1 | 🟡     | <a href="https://github.com/1makeyourdreams1/Autopark/tree/main/Autopark">Перейти</a>
+Домашняя работа 1 | 🟡     | <a href="https://github.com/1makeyourdreams1/HomeWork-C-/tree/main/HomeWork%201">Перейти</a>
 **Статусы выполнения:** <br>
 🔴 Не готово <br>
 🟡 Нужно посмотреть <br>
