@@ -7,7 +7,7 @@
 
 Название          | Статус | Ссылка
 ------------------|--------|--------
-Пин-Код           | 🟡     |
+Пин-Код           | 🟡     | <a href="https://github.com/1makeyourdreams1/HomeWork-C-/tree/main/PIN%20CODE">Перейти</a>
 Магазин дисков    | 🟡     | <a href="https://github.com/1makeyourdreams1/HomeWork-C-/tree/main/Music%20disc%20shop">Перейти</a>
 Автопарк          | 🟢     | <a href="https://github.com/1makeyourdreams1/Autopark/tree/main/Autopark">Перейти</a>
 Домашняя работа 1 | 🟢     | <a href="https://github.com/1makeyourdreams1/HomeWork-C-/tree/main/HomeWork%201">Перейти</a>
